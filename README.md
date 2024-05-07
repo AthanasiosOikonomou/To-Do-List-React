@@ -2,6 +2,10 @@
 
 This is a simple ToDo List project where users can add items and remove them by clicking on them.
 
+## Preview
+
+https://github.com/AthanasiosOikonomou/To-Do-List-React/assets/87909481/d09c085f-8f57-40f6-adfa-12c8f5446081
+
 ## Getting Started
 
 To get started with this project, you can follow these steps:
