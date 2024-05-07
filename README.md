@@ -10,3 +10,40 @@ To get started with this project, you can follow these steps:
 
    ```bash
    git clone https://github.com/AthanasiosOikonomou/To-Do-List-React.git
+
+2. To run in dev use:
+
+   ```bash
+   cd todo-list
+   npm install
+   npm run dev
+
+## Project Structure
+
+The project structure is organized as follows:
+
+src/: Contains all the source code for the project.
+
+components/: Contains React components used in the application.
+
+App.jsx: Main component managing the state of the ToDo list.
+
+InputArea.jsx: Component responsible for input area where users can add new items.
+
+ToDoItem.jsx: Component representing individual ToDo items.
+
+index.js: Entry point of the application.
+
+## How to Use
+
+Adding Items:
+
+Type the item in the input field provided, and click on the 'Add' button.
+
+Removing Items:
+
+Click on an item in the list to remove it.
+
+Acknowledgements
+
+Dr. Angela Yu because this project was part of her The Complete 2023 Web Development Bootcamp course.
