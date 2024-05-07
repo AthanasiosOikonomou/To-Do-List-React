@@ -14,7 +14,7 @@ To get started with this project, you can follow these steps:
 2. To run in dev use:
 
    ```bash
-   cd todo-list
+   cd (to the project folder)
    npm install
    npm run dev
 
